@@ -1,0 +1,74 @@
+--- NUEVA SOLICITUD (2026-02-21 19:16:55) ---
+👤 Nombre: Juan Manuel Juguera Rodríguez
+📞 Teléfono: 65212547
+📍 Ubicación: Montijo
+------------------------------------------
+
+--- NUEVA SOLICITUD (2026-02-21 19:18:33) ---
+👤 Nombre: Juan Manuel Juguera Rodríguez
+📞 Teléfono: 65212547
+📍 Ubicación: Montijo
+------------------------------------------
+
+--- NUEVA SOLICITUD (2026-02-21 19:32:58) ---
+👤 Nombre: Juan Manuel Juguera Rodríguez
+📞 Teléfono: 12548578
+📍 Ubicación: badajoz
+------------------------------------------
+
+--- NUEVA SOLICITUD (21-02-2026 19:37:09) ---
+👤 Nombre: Juan Manuel Juguera Rodríguez
+📞 Teléfono: 65212547
+📍 Ubicación: graada
+------------------------------------------
+
+--- NUEVA SOLICITUD (21-02-2026 19:39:45) ---
+👤 Nombre: dadafad
+📞 Teléfono: asdfafadsf
+📍 Ubicación: asdfasfdf
+------------------------------------------
+
+--- NUEVA SOLICITUD (21-02-2026 20:20:38) ---
+👤 Nombre: Juan Manuel Juguera Rodríguez
+📞 Teléfono: 65212547
+📍 Ubicación: asdfasfdf
+------------------------------------------
+
+--- NUEVA SOLICITUD (21-02-2026 20:23:41) ---
+👤 Nombre: pepe
+📞 Teléfono: 8521478
+📍 Ubicación: barbate
+------------------------------------------
+
+--- NUEVA SOLICITUD (21-02-2026 21:31:36) ---
+👤 Nombre: Juan Manuel Juguera Rodríguez
+📞 Teléfono: 12548578
+📍 Ubicación: lacara
+------------------------------------------
+
+--- NUEVA SOLICITUD ASISTENCIA (28-02-2026 10:40:22) ---
+👤 Nombre: dsfasd
+📞 Teléfono: dsfads
+📍 Ubicación: sdfa
+------------------------------------------
+
+--- MENSAJE DE CONTACTO (28-02-2026 10:51:49) ---
+👤 Nombre: mensahe
+📞 Teléfono: 258741369
+📧 Email: mio
+📝 Mensaje: en nada
+------------------------------------------
+
+--- CONTACTO DETALLADO (28-02-2026 11:01:49) ---
+👤 Nombre: zaqwsx
+📞 Teléfono: 1234567
+📧 Email: edcrfv
+📝 Msj: no
+------------------------------
+
+--- ASISTENCIA RÁPIDA (HERO) (28-02-2026 11:02:20) ---
+👤 Nombre: ujm
+📞 Teléfono: ujm
+📍 Ubicación: lok
+------------------------------
+

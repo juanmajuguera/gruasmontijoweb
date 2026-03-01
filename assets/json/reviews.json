@@ -1,0 +1,20 @@
+{
+  "empresa": "Grúas Montijo y Lavados S.L.",
+  "ubicacion": "Montijo, Badajoz",
+  "fuente": "Google Maps",
+  "resenas": [
+    { "id": 1, "autor": "VOLVO trucks", "puntuacion": 5, "avatar": null, "comentario": "Referente en la zona", "fecha": "Hace un año" },
+    { "id": 2, "autor": "Ana P.", "puntuacion": 5, "avatar": null, "comentario": "Tuve una avería cuando iba de viaje y solicitar una grúa. Me ofrecieron llevar el coche al taller y fueron grandes profesionales.", "fecha": "Hace un año" },
+    { "id": 3, "autor": "Ney Rodtado", "puntuacion": 5, "avatar": null, "comentario": "Son muy amables y eficientes.", "fecha": "Hace un año" },
+    { "id": 4, "autor": "Jose Antonio Espada", "puntuacion": 5, "avatar": null, "comentario": "Un servicio de diez!!!!", "fecha": "Hace un año" },
+    { "id": 5, "autor": "Cipriano Vega Vargas", "puntuacion": 5, "avatar": null, "comentario": "Buen trato", "fecha": "Hace 2 años" },
+    { "id": 6, "autor": "Eduardo Salazar Vargas", "puntuacion": 5, "avatar": null, "comentario": "Buen taller, excelentes mecánicos, amables y atentos con los clientes.", "fecha": "Hace 2 años" },
+    { "id": 7, "autor": "Maximo Gordillo Gargantilla", "puntuacion": 5, "avatar": null, "comentario": "Seriedad, confianza, puntualidad y máxima atención tanto en grúas como en taller", "fecha": "Hace 2 años" },
+    { "id": 8, "autor": "Juan Ramon Soto Gtz.", "puntuacion": 5, "avatar": null, "comentario": "Excelente servicio y atención. Calidad, servicio y costo. Felicidades.", "fecha": "Hace 3 años" },
+    { "id": 9, "autor": "Isaac Sánchez Carrera", "puntuacion": 5, "avatar": null, "comentario": "Buen servicio y buena gente", "fecha": "Hace 4 años" },
+    { "id": 10, "autor": "Eduardo García", "puntuacion": 5, "avatar": null, "comentario": "Empresa experta en servicio grúa/rescate en la zona. Taller propio y resolutivos", "fecha": "Hace 4 años" },
+    { "id": 11, "autor": "juan francisco martinez", "puntuacion": 5, "avatar": null, "comentario": "Servicio rápido", "fecha": "Hace 7 años" },
+    { "id": 12, "autor": "Matilde Vegas Dominguez", "puntuacion": 1, "avatar": null, "comentario": "Mal servicio, fatal el trato al cliente, no lo recomiendo a nadie.", "fecha": "Hace 8 años" },
+    { "id": 13, "autor": "Pilar VenVaz", "puntuacion": 5, "avatar": null, "comentario": "Muy serviciales", "fecha": "Hace 9 años" }
+  ]
+}
